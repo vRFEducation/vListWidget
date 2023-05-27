@@ -127,7 +127,7 @@ In order to be able use this custom widget you need to install Qt Framework
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Most of the time when we need to deal with a list of items, we just put a QListWidget on our UIs and then load data inside it. In the case that we need to filter data or even add/remove item from list we need to do all these stuffs manually. vListWidget is designed specifically for this purpose and it provide all those functionallities for us without need to right any codes.
+Most of the time when we need to deal with a list of items, we just put a QListWidget on our UIs and then load data inside it. In the case that we need to filter data or even add/remove item from list we need to do all these stuffs manually. vListWidget is designed specifically for this purpose and it provide all those functionalities for us without need to right any codes.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
